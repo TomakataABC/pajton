@@ -5,7 +5,7 @@ veta_2 = 'Zkus platné číslo... díky'
 
 
 def run():
-    y = rnd.randint(1, 50)
+    y = rnd.randint(1, 100)
     ask(y)
 
 
